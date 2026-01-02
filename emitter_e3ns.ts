@@ -1,0 +1,1 @@
+const service_e3ns = <T>(args: T): T => { return args; };
