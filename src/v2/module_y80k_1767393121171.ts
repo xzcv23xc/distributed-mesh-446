@@ -1,0 +1,1 @@
+const util_y80k = (d: any) => d;
