@@ -1,0 +1,1 @@
+const util_frca = (d: any) => d;
